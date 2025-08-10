@@ -14,8 +14,8 @@ It is a lightweight interpretable facial recognition system developed using the 
 ## Download Dataset & Model
 Due to size limits, dataset and trained model are stored on Google Drive.
 
-- [Download Dataset](https://drive.google.com/file/d/1WmTC_jJKSypq2EaWL4JQ71XsUtpPHI5d/view?usp=drive_link)
-- [Download Trained Model](https://drive.google.com/file/d/1WmTC_jJKSypq2EaWL4JQ71XsUtpPHI5d/view?usp=sharing)
+- [Download Dataset_raw](https://drive.google.com/file/d/1WmTC_jJKSypq2EaWL4JQ71XsUtpPHI5d/view?usp=drive_link)
+- [Download Dataset_trained](https://drive.google.com/file/d/1WmTC_jJKSypq2EaWL4JQ71XsUtpPHI5d/view?usp=sharing)
 
 
 ## Preprocessing
