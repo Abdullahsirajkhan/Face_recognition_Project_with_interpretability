@@ -10,6 +10,13 @@ It is a lightweight interpretable facial recognition system developed using the 
 - Format: RGB image frames (~400 per person)
 - Variations: Lighting, facial orientation, eye contact, glasses, background
 - Issues: Mild class imbalance, inconsistent brightness, one class with different dimensions
+- The data set is quite large to upload on GitHub, so I am linking a link to a drive where you can find and download the dataset zipped files for use.
+## Download Dataset & Model
+Due to size limits, dataset and trained model are stored on Google Drive.
+
+- [Download Dataset](https://drive.google.com/file/d/1WmTC_jJKSypq2EaWL4JQ71XsUtpPHI5d/view?usp=drive_link)
+- [Download Trained Model](https://drive.google.com/file/d/1WmTC_jJKSypq2EaWL4JQ71XsUtpPHI5d/view?usp=sharing)
+
 
 ## Preprocessing
 - Converted images to grayscale
